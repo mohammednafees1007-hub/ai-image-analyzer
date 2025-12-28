@@ -5,7 +5,7 @@ __pycache__/
 # Virtual environment
 venv/
 
-# Model weights downloaded by YOLO/others
+# Model weights
 *.pt
 
 # Data (keep folder, ignore contents)
