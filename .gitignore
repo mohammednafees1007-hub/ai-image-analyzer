@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model weights downloaded by YOLO/others
+*.pt
+
+# Data (keep folder, ignore contents)
+data/*
+!data/.gitkeep
+
+# OS junk
+Thumbs.db
+.DS_Store
