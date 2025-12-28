@@ -1,3 +1,17 @@
+# Core
 numpy
 opencv-python
 pillow
+
+# PyTorch (CUDA-enabled if available)
+torch
+torchvision
+torchaudio
+
+# Object Detection
+ultralytics
+
+# Image Captioning (BLIP)
+transformers==4.40.2
+timm
+accelerate
